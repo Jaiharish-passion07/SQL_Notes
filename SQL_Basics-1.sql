@@ -61,7 +61,7 @@ SELECT customer_name,
 FROM store
 ORDER BY city ASC, sales DESC;
 
---👉WHERE Clause👈--
+	--👉WHERE Clause👈--
 	
 /*  1)It filters the data based on some specific condition */
 
