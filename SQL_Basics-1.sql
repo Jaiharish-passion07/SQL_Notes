@@ -1,28 +1,28 @@
    --👉✨SQL ORDER✨👈:
 
 /*
-	  🌻SELECT🌻
+	     🌻SELECT🌻
 		  |
 		  👇
-	  🌻FROM🌻
+	      🌻FROM🌻
 		  |
 		  👇
-	   🌻JOIN🌻
+	      🌻JOIN🌻
 		  |
 		  👇
-	  🌻WHERE🌻
+	      🌻WHERE🌻
 		  |
 		  👇
-	  🌻GROUP BY🌻
+	     🌻GROUP BY🌻
 		  |
 		  👇
-	  🌻HAVING🌻
+	     🌻HAVING🌻
 		  |
 		  👇
-	  🌻ORDERBY🌻
+	     🌻ORDERBY🌻
 		  |
 		  👇
-	  🌻LIMIT🌻
+	      🌻LIMIT🌻
 
 */
 
@@ -180,7 +180,5 @@ SELECT customer_id,
 FROM store
 WHERE customer_name 
 LIKE '___a%';
-
-
 
 				
